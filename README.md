@@ -1,6 +1,6 @@
 # Simplegrad
-<div style="text-align: center;">
-<img src="image.png" alt=""  width="300" style="border-radius: 30px;"/>
+<div align="center">
+ <img src="image.png" alt=""  width="300" style="border-radius: 30px;"/>
 </div>
 
 
