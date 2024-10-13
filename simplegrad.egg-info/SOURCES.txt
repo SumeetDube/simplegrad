@@ -1,0 +1,10 @@
+README.md
+setup.py
+simplegrad/__init__.py
+simplegrad/engine.py
+simplegrad/nn.py
+simplegrad.egg-info/PKG-INFO
+simplegrad.egg-info/SOURCES.txt
+simplegrad.egg-info/dependency_links.txt
+simplegrad.egg-info/top_level.txt
+test/test_simplegrad.py

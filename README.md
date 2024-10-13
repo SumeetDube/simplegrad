@@ -4,9 +4,9 @@
 </div>
 
 
-A simple autograd engine inspired by Karpathy's [micrograd](https://github.com/karpathy/micrograd/tree/master). It's suitable for simple linear regression and neural network tasks. 
+A simple autograd engine inspired by Karpathy's [micrograd](https://github.com/karpathy/micrograd/tree/master). 
 
-## Overview
+This project implements reverse-mode autodiff (backpropagation) over a dynamically built Directed Acyclic Graph (DAG).
 
 ## Usage
 

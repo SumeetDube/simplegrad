@@ -1,0 +1,34 @@
+Metadata-Version: 2.1
+Name: simplegrad
+Version: 0.1.0
+Summary: A tiny scalar-valued autograd engine with a small PyTorch-like neural network library on top.
+Home-page: https://github.com/sumeetdube/simplegrad
+Author: Sumeet Dube
+Author-email: sumeetdube1234@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+# Simplegrad
+<div align="center">
+ <img src="image.png" alt=""  width="300" style="border-radius: 30px;"/>
+</div>
+
+
+A simple autograd engine inspired by Karpathy's [micrograd](https://github.com/karpathy/micrograd/tree/master). 
+
+This project implements reverse-mode autodiff (backpropagation) over a dynamically built Directed Acyclic Graph (DAG).
+
+## Usage
+
+## Todo
+
+- [ ] Tanh
+- [ ] Sigmoid
+- [ ] BatchNormalization
+ 
+## Licence 
+MIT
+
